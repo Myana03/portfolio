@@ -45,7 +45,7 @@ const Home = () => {
             <div className="hero-buttons">
               <a href="#contact" className="btn btn-primary">Get In Touch</a>
               <a
-                href="/Sai Nath Myana Resume.pdf"
+                href="Sai Nath Myana Resume.pdf"
                 className="btn btn-secondary"
                 target="_blank"
                 rel="noopener noreferrer"
