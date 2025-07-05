@@ -35,7 +35,7 @@ const Contact = () => (
             </div>
             <div style={{ marginTop: '1.5rem', width: '100%', display: 'flex', justifyContent: 'center' }}>
               <a
-                href="/Sai%20Nath%20Myana%20Resume.pdf"
+                href="/Sai Nath Myana Resume.pdf"
                 className="btn btn-secondary"
                 target="_blank"
                 rel="noopener noreferrer"
