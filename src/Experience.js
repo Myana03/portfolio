@@ -5,28 +5,28 @@ import Timeline from './Timeline';
 const experience = [
   {
     company: 'Walmart Global Tech',
-    role: 'Software Engineer',
-    dates: 'May 2024 - Present',
+    role: 'Java Developer',
+    dates: 'July 2024 - Present',
     responsibilities: [
-      'Designed and implemented Spring Boot Batch jobs to process and integrate data from APIs, SFTP, and LDAP, ensuring reliability and scalability.',
-      'Secured and built RESTful APIs using OAuth2, JWT, and Spring Security to facilitate robust backend-frontend communication.',
-      'Managed and orchestrated Kubernetes-deployed containerized batch jobs, enhancing system performance and observability.',
-      'Integrated LLM capabilities into enterprise systems using RAG pipelines and Milvus for vector storage, enabling intelligent query-based agent responses.',
-      'Developed agentic AI workflows by chaining tools (e.g., data fetchers, summarizers, transformers) based on user queries, enhancing system automation and adaptability.',
-      'Worked on unit, integration, and contract tests for APIs and batch processors, achieving over 85% test coverage and reducing production defects.',
-      'Optimized batch job performance by tuning chunk size, thread pool, and SQL queries, reducing average execution time by 40%.'
+      'Built a scalable batch processing system that analyzes 10K+ APMIDs and 50K+ service accounts per job run, ensuring 99.99% reliability, auto-recovery, and full audit traceability.',
+      'Reduced policy violation processing time by 60% by implementing multithreaded Spring Batch jobs with parallel execution, chunk tuning, and efficient data ingestion from LDAP, SFTP, and APIs.',
+      'Automated 15+ compliance checks across Walmart\'s internal infra, achieving 100% policy coverage with zero manual intervention.',
+      'Integrated with ServiceNow to auto-generate 10K+ violation tickets monthly, reducing manual workload by 70% through dynamic owner resolution and pre-filled remediation details.',
+      'Assesses policy violations, answers user queries, and routes to ServiceNow tickets and support channels—cutting support load by 50%.',
+      'Improved visibility and issue triaging by implementing custom logging, alerting, and centralized dashboards, reducing debugging time by 50% and improving SLA adherence by 30%.',
+      'Drove performance optimization and code refactoring efforts across critical backend modules, reducing API response times by 40% and improving system reliability under peak load conditions.'
     ],
   },
-  {
-    company: 'Accenture',
-    role: 'Software Engineer',
-    dates: 'Aug 2019 – Aug 2022',
+      {
+      company: 'Accenture',
+      role: 'Software Engineer',
+      dates: 'Aug 2019 – Aug 2022',
     responsibilities: [
-      'Contributed to the development of Java backend services and APIs, gaining hands-on experience under senior mentorship to support project objectives.',
-      'Assisted in database operations such as schema design and query optimization using Hibernate, contributing to data management efficiencies.',
-      'Actively involved in code reviews, optimizing the code, and bug fixing for Java automation scripts.',
-      'Worked on XML, Web Services, SOAP UI, and UNIX logs as part of backend service integration and maintenance, ensuring seamless communication across services.',
-      'Leveraged Selenium, TestNG, and Maven for automation and testing of backend services, contributing to improved software quality and performance.'
+      'Facilitated continuous integration processes through consistent participation in agile ceremonies along with successful completion of assigned tasks ahead of planned sprints demonstrating commitment as most junior member on the engineering team.',
+      'Refactored existing Java code to enhance modularity and reusability, decreasing technical debt by 25%.',
+      'Spearheaded the integration of advanced error-handling techniques within the existing Java codebase when managing database connections via JDBC; resolved the top five causes of runtime errors impacting user experience.',
+      'Leveraged Git to establish a robust system of source control management; ensured continuous monitoring of application versions across three major projects, facilitating faster bug resolution times, and enhancing team collaboration.',
+      'Devised test cases and strategies for unit and integration testing with JUnit and Mockito, achieving 90% test coverage.'
     ],
   },
 ];
