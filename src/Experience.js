@@ -17,10 +17,10 @@ const experience = [
       'Drove performance optimization and code refactoring efforts across critical backend modules, reducing API response times by 40% and improving system reliability under peak load conditions.'
     ],
   },
-      {
-      company: 'Accenture',
-      role: 'Software Engineer',
-      dates: 'Aug 2019 – Aug 2022',
+        {
+    company: 'Accenture',
+    role: 'Software Engineer',
+    dates: 'Aug 2020 – Aug 2022',
     responsibilities: [
       'Facilitated continuous integration processes through consistent participation in agile ceremonies along with successful completion of assigned tasks ahead of planned sprints demonstrating commitment as most junior member on the engineering team.',
       'Refactored existing Java code to enhance modularity and reusability, decreasing technical debt by 25%.',
