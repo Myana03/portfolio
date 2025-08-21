@@ -20,7 +20,7 @@ const experience = [
         {
     company: 'Accenture',
     role: 'Software Engineer',
-    dates: 'Aug 2020 – Aug 2022',
+    dates: 'Aug 2019 – Aug 2022',
     responsibilities: [
       'Facilitated continuous integration processes through consistent participation in agile ceremonies along with successful completion of assigned tasks ahead of planned sprints demonstrating commitment as most junior member on the engineering team.',
       'Refactored existing Java code to enhance modularity and reusability, decreasing technical debt by 25%.',
