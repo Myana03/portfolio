@@ -13,7 +13,7 @@ const Contact = () => (
           <div className="contact-status-badge">Open to Opportunities</div>
           <div className="contact-info-list contact-info-list-centered">
             <div className="contact-socials contact-socials-icons">
-              <a href="mailto:saimyana1998@gmail.com" className="contact-link" title="Email">
+              <a href="mailto:sainath.myana.dev@gmail.com" className="contact-link" title="Email">
                 <FaEnvelope />
               </a>
               <a href="tel:6462291089" className="contact-link" title="Phone">
@@ -30,7 +30,7 @@ const Contact = () => (
               <FaMapMarkerAlt style={{ marginRight: 6 }} />Austin, Texas
             </div>
             <div className="contact-details-list contact-details-list-centered">
-              <div><strong>Email:</strong> <a href="mailto:saimyana1998@gmail.com" className="contact-link">saimyana1998@gmail.com</a></div>
+              <div><strong>Email:</strong> <a href="mailto:sainath.myana.dev@gmail.com" className="contact-link">sainath.myana.dev@gmail.com</a></div>
               <div><strong>Phone:</strong> <a href="tel:6462291089" className="contact-link">646-229-1089</a></div>
             </div>
             <div style={{ marginTop: '1.5rem', width: '100%', display: 'flex', justifyContent: 'center' }}>
